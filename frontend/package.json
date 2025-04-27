@@ -51,6 +51,7 @@
     "react-hook-form": "^7.55.0",
     "react-native": "0.76.8",
     "react-native-animatable": "^1.4.0",
+    "react-native-auth0": "^2.10.0",
     "react-native-calendar-picker": "^8.0.5",
     "react-native-css-interop": "^0.1.22",
     "react-native-gesture-handler": "~2.20.2",
